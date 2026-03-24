@@ -127,17 +127,4 @@ Applied the **Louvain algorithm** (modularity optimization) on the undirected pr
 pip install networkx python-louvain matplotlib seaborn pandas numpy scipy
 ```
 
----
-
-## Team
-
-| Member | Slides |
-|--------|--------|
-| Abhay Puri | Opening & Problem Statement (1–3) |
-| John MacDonald | Data & Network Construction (4–5) |
-| Liam Thompson | Centrality Analysis (6–8) |
-| Ethan Davenport | Community Detection & GraphRAG (9–11) |
-| Grant Treadaway | Homophily vs. Social Influence (12) |
-| Carter St. Geme | Key Findings & Closing (13–14) |
-
 *OM386 Social Media Analytics — University of Texas at Austin*
